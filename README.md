@@ -1,5 +1,3 @@
-# recipes
-odin-project-recipes
 ## Das ist meine erste Website 
 ## Meine Rezepte für eine gutes Frühstück
 
