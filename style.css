@@ -1,0 +1,11 @@
+*{
+    background-color:black;
+    font-family:'Courier New', Courier, monospace;
+    color:#d6d6d0;
+}
+
+.header{
+    color: #e6dd81;
+    font-size:x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
